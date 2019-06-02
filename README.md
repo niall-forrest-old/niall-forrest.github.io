@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello ~ I'm Niall
 
-You can use the [editor on GitHub](https://github.com/niall-forrest/niall-forrest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Computing and Information Technology Student at Queen's University Belfast - I am a Computing and Information Technology Student at Queen's University Belfast, with a particular interest in web development, design and UX. I am currently undertaking a year of professional experience as a Software Developer at Seagate Technology. 
 
 ### Markdown
 
@@ -26,12 +24,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niall-forrest/niall-forrest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
